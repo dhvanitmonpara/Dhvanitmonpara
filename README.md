@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dhvanit and I'm a MERN Stack GenAI dev, from India. see my work <a target="blank" href="https://dhvanitmonpara.in">here</a>.</p>
+<p align="left">My name is Dhvanit and I'm a Backend Engineer from India. see my work <a target="blank" href="https://dhvanitmonpara.in">here</a>.</p>
 
 ###
 
@@ -19,7 +19,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhvanitmonpara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Dhvanitmonpara&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitmonpara&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
 </div>
